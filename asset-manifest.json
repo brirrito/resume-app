@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resume-app/static/css/main.2094c15d.css",
+    "main.js": "/resume-app/static/js/main.7592f47e.js",
+    "static/media/background.jpg": "/resume-app/static/media/background.4972c0f7e278a7a2bd13.jpg",
+    "index.html": "/resume-app/index.html",
+    "main.2094c15d.css.map": "/resume-app/static/css/main.2094c15d.css.map",
+    "main.7592f47e.js.map": "/resume-app/static/js/main.7592f47e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2094c15d.css",
+    "static/js/main.7592f47e.js"
+  ]
+}
